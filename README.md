@@ -5,6 +5,11 @@ A simple python tkinter application that stores your answers to avoid failing [s
 
 # Download
 
+To copy the entire file:
+**Ctrl-A**  to select everything
+*then*
+**Ctrl-C** or **Right Click-Copy**  to copy
+
 Raw python files included for ease of use in school. I might make a .exe file at some point.
 
 Download the current version [here](https://github.com/harcher-dev/sparxStorer/raw/main/sparxStorer-v3.3.py?raw=true).
