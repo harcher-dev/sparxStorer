@@ -6,9 +6,9 @@ A simple python tkinter application that stores your answers to avoid failing [s
 
 Raw python files included for ease of use in school. I might make a .exe file at some point.
 
-Download the current version [here](https://github.com/harcher-dev/sparxStorer/raw/main/sparxStorer-v3.2.py?raw=true).
+Download the current version [here](https://github.com/harcher-dev/sparxStorer/raw/main/sparxStorer-v3.3.py?raw=true).
 
-Raw version can be found [here](https://github.com/harcher-dev/sparxStorer/raw/main/sparxStorer-v3.2.py) if you are having issues with the github version.
+Raw version can be found [here](https://github.com/harcher-dev/sparxStorer/raw/main/sparxStorer-v3.3.py) if you are having issues with the github version.
 
 # Requirements
 
